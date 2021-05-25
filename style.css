@@ -1,0 +1,28 @@
+* {
+    margin: 20px 150px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+form {
+    background-color: lemonchiffon;
+    display: flex;
+    flex-wrap: column wrap;
+}
+
+.btn {
+    background-color: aquamarine;
+    border: 1px solid gray;
+    box-shadow: 6px 6px 6px gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
